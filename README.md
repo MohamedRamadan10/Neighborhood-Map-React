@@ -5,10 +5,6 @@ By Mohamed Ramadan
 This single page app uses the Google maps API and the location-based service Foursquare API to list some attractions in the Blue Mountains Katoomba, Australia. The page features 5 map markers of locations in the Blue Mountains and lists details of each attraction using the Foursquare API. It also includes a search functionality that filters out the markers by query.
 It is made with responsiveness and a11y in mind.
 
-Udacity Project Reviewer comment:
-_"Congrats. This is indeed a great submission. You went far more than what was demanded from you and the final application is awesome
-I really enjoyed reviewing this! You did a great job!"_
-
 This app was design from ground up, utilizing the create-react-app tool.
 It uses the [google-maps-react](https://www.npmjs.com/package/google-maps-react) library.
 
